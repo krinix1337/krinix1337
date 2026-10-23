@@ -1,13 +1,13 @@
 {
- "key": "74e4a1c8",
- "stars": 2,
- "contributions": 75,
+ "key": "97fc3e04",
+ "stars": 3,
+ "contributions": 76,
  "repos": 2,
- "followers": 1,
+ "followers": 2,
  "languages": [
   [
    "C#",
-   1199899
+   1230531
   ]
  ],
  "days": [
@@ -112,7 +112,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 23,
     "today": true
    },
@@ -120,8 +120,8 @@
   ]
  ],
  "streak": {
-  "current": 2,
-  "longest": 2
+  "current": 3,
+  "longest": 3
  },
  "pins": [
   {
@@ -129,7 +129,7 @@
    "url": "https://github.com/krinix1337/lantern-zapret",
    "text": "WPF-приложение для управления обходом блокировок Discord и YouTube через zapret (winws)",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "C#",
    "topics": [
     "bypass",
@@ -150,7 +150,7 @@
    "url": "https://github.com/krinix1337/lantern-zapret",
    "text": "WPF-приложение для управления обходом блокировок Discord и YouTube через zapret (winws)",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "C#",
    "topics": [
     "bypass",
