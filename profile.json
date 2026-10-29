@@ -1,78 +1,73 @@
 {
   "version": 1,
   "login": "krinix1337",
-  "seed": "#3B3126",
-  "seedFromAvatar": true,
-  "scheme": "monochrome",
+  "seed": "#000000",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
     "wave",
+    "socials",
     "about",
     "stack",
+    "projects",
     "stats",
     "buttons",
-    "socials",
-    "projects",
     "streak"
   ],
   "hidden": [
-    "projects",
     "streak",
     "socials"
   ],
   "hero": {
-    "greeting": "hello",
-    "name": "nektoxyz",
-    "subtitle": "",
+    "greeting": "Привет, я",
+    "name": "",
+    "subtitle": "Делаю полезные программы)",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "dubai - mocha island"
+        "label": "Dubai - mocha island"
       },
       {
-        "icon": "code",
-        "label": "vibecode"
+        "icon": "brand:claudecode",
+        "label": "вайбкодер, но для себя"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "Обо мне",
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Делаю программы, которые могут помочь"
       },
       {
-        "icon": "code",
-        "label": "Using ai"
+        "icon": "brand:github",
+        "label": "Нравиться заниматься этим"
       },
       {
-        "icon": "favorite",
-        "label": "Love Lantern-zapret"
+        "icon": "palette",
+        "label": "Люблю Material Design"
       }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "Стек",
     "groups": [
       {
         "title": "Main",
         "items": [
           {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
             "icon": "brand:python",
-            "label": "pythom"
-          },
-          {
-            "icon": "brand:claudecode",
-            "label": "vibecode"
-          },
-          {
-            "icon": "brand:qwen",
-            "label": "qwen"
+            "label": "Python"
           }
         ]
       },
@@ -84,41 +79,51 @@
             "label": "Git"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:claude",
+            "label": "Claude"
+          },
+          {
+            "icon": "brand:soundcloud",
+            "label": "Music"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "pinned",
+    "source": "manual",
     "repos": [
-      "pixel-garden",
-      "tiny-weather",
-      "echo-bot",
-      "dotfiles"
+      "lantern-zapret",
+      "mimikoLauncher"
     ],
-    "overrides": {},
-    "empty": "No description yet.",
+    "overrides": {
+      "lantern-zapret": {
+        "shape": "cookie12",
+        "icon": "language"
+      },
+      "mimikoLauncher": {
+        "shape": "flower"
+      }
+    },
+    "empty": "Описания пока нет.",
     "fork": "Fork"
   },
   "stats": {
-    "title": "GitHub activity",
-    "stars": "Stars earned",
-    "contributions": "Contributions this year",
-    "repos": "Public repos",
-    "followers": "Followers",
-    "calendar": "Last 21 days",
-    "weekdays": "SMTWTFS",
-    "languages": "Languages across my repositories",
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
     "showLanguages": true
   },
   "streak": {
-    "title": "Streak",
-    "current": "Current streak",
-    "longest": "Longest this year",
-    "days": "days"
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
   },
   "socials": {
     "items": [
@@ -143,11 +148,16 @@
     "items": [
       {
         "icon": "language",
-        "label": "Lantern-zapret",
-        "url": "https://github.com/krinix1337/lantern-zapret",
+        "label": "Мой сайт",
+        "url": "https://mimiko.fun",
         "style": "filled"
+      },
+      {
+        "icon": "brand:discord",
+        "label": "Discord",
+        "url": "https://discord.gg/YqwmWWmtm",
+        "style": "tonal"
       }
-    ],
-    "card": false
+    ]
   }
 }
