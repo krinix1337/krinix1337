@@ -1,6 +1,6 @@
 {
- "key": "d0b6d106",
- "stars": 6,
+ "key": "cf2d473b",
+ "stars": 7,
  "contributions": 119,
  "repos": 3,
  "followers": 2,
@@ -168,7 +168,7 @@
    "url": "https://github.com/krinix1337/mimikoLauncher",
    "text": "Лаунчер Minecraft в стиле Modrinth App: без рекламы, вход по нику и через Ely.by",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": [
     "elyby",
@@ -200,20 +200,11 @@
    ]
   },
   {
-   "name": "krinix1337",
-   "url": "https://github.com/krinix1337/krinix1337",
-   "text": "My GitHub profile",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "mimikoLauncher",
    "url": "https://github.com/krinix1337/mimikoLauncher",
    "text": "Лаунчер Minecraft в стиле Modrinth App: без рекламы, вход по нику и через Ely.by",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Rust",
    "topics": [
     "elyby",
@@ -222,6 +213,15 @@
     "modrinth",
     "tauri"
    ]
+  },
+  {
+   "name": "krinix1337",
+   "url": "https://github.com/krinix1337/krinix1337",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
   }
  ]
 }
