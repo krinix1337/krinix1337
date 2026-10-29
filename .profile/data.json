@@ -1,13 +1,37 @@
 {
- "key": "e5ed1625",
+ "key": "d0b6d106",
  "stars": 6,
- "contributions": 76,
- "repos": 2,
+ "contributions": 119,
+ "repos": 3,
  "followers": 2,
  "languages": [
   [
+   "Rust",
+   9656554
+  ],
+  [
+   "Vue",
+   7040202
+  ],
+  [
+   "TypeScript",
+   4456440
+  ],
+  [
    "C#",
    1230531
+  ],
+  [
+   "HTML",
+   219596
+  ],
+  [
+   "JavaScript",
+   170252
+  ],
+  [
+   "SCSS",
+   98974
   ]
  ],
  "days": [
@@ -102,12 +126,12 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 11,
     "day": 28,
     "today": false
    },
    {
-    "c": 0,
+    "c": 32,
     "day": 29,
     "today": true
    },
@@ -116,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 3
  },
  "pins": [
@@ -137,6 +161,21 @@
     "wpf",
     "youtube",
     "zapret"
+   ]
+  },
+  {
+   "name": "mimikoLauncher",
+   "url": "https://github.com/krinix1337/mimikoLauncher",
+   "text": "Лаунчер Minecraft в стиле Modrinth App: без рекламы, вход по нику и через Ely.by",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "elyby",
+    "minecraft",
+    "minecraft-launcher",
+    "modrinth",
+    "tauri"
    ]
   }
  ],
@@ -168,6 +207,21 @@
    "stars": 1,
    "language": null,
    "topics": []
+  },
+  {
+   "name": "mimikoLauncher",
+   "url": "https://github.com/krinix1337/mimikoLauncher",
+   "text": "Лаунчер Minecraft в стиле Modrinth App: без рекламы, вход по нику и через Ely.by",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": [
+    "elyby",
+    "minecraft",
+    "minecraft-launcher",
+    "modrinth",
+    "tauri"
+   ]
   }
  ]
 }
