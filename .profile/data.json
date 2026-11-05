@@ -1,8 +1,8 @@
 {
- "key": "5af9e612",
- "stars": 7,
- "contributions": 135,
- "repos": 3,
+ "key": "7800033b",
+ "stars": 8,
+ "contributions": 175,
+ "repos": 4,
  "followers": 2,
  "languages": [
   [
@@ -18,6 +18,10 @@
    4454543
   ],
   [
+   "Dart",
+   1523755
+  ],
+  [
    "C#",
    1230531
   ],
@@ -28,10 +32,6 @@
   [
    "JavaScript",
    170252
-  ],
-  [
-   "SCSS",
-   98587
   ]
  ],
  "days": [
@@ -52,12 +52,12 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 21,
     "today": false
    },
    {
-    "c": 5,
+    "c": 15,
     "day": 22,
     "today": false
    },
@@ -67,7 +67,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 24,
     "today": false
    }
@@ -79,17 +79,17 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 26,
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 27,
     "today": false
    },
    {
-    "c": 11,
+    "c": 20,
     "day": 28,
     "today": false
    },
@@ -99,7 +99,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 30,
     "today": false
    },
@@ -126,18 +126,22 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 9,
     "day": 4,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 5,
     "today": true
    },
-   null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 3
+  "current": 2,
+  "longest": 7
  },
  "pins": [
   {
@@ -208,6 +212,26 @@
     "minecraft-launcher",
     "modrinth",
     "tauri"
+   ]
+  },
+  {
+   "name": "mimikoPlayer",
+   "url": "https://github.com/krinix1337/mimikoPlayer",
+   "text": "mimikoPlayer — неофициальный музыкальный плеер для Android: Яндекс Музыка, SoundCloud и свои файлы в одной очереди. Волна, коллекция, караоке, кроссфейд, эквалайзер.",
+   "fork": false,
+   "stars": 1,
+   "language": "Dart",
+   "topics": [
+    "android",
+    "drift",
+    "flutter",
+    "just-audio",
+    "karaoke",
+    "material-you",
+    "material3",
+    "music-player",
+    "riverpod",
+    "yandex-music"
    ]
   },
   {
