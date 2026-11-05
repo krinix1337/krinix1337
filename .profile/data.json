@@ -1,7 +1,7 @@
 {
- "key": "7800033b",
+ "key": "f5518f5e",
  "stars": 8,
- "contributions": 175,
+ "contributions": 176,
  "repos": 4,
  "followers": 2,
  "languages": [
@@ -131,7 +131,7 @@
     "today": false
    },
    {
-    "c": 8,
+    "c": 9,
     "day": 5,
     "today": true
    },
@@ -176,6 +176,26 @@
     "minecraft-launcher",
     "modrinth",
     "tauri"
+   ]
+  },
+  {
+   "name": "mimikoPlayer",
+   "url": "https://github.com/krinix1337/mimikoPlayer",
+   "text": "mimikoPlayer — неофициальный музыкальный плеер для Android: Яндекс Музыка, SoundCloud и свои файлы в одной очереди. Волна, коллекция, караоке, кроссфейд, эквалайзер.",
+   "fork": false,
+   "stars": 1,
+   "language": "Dart",
+   "topics": [
+    "android",
+    "drift",
+    "flutter",
+    "just-audio",
+    "karaoke",
+    "material-you",
+    "material3",
+    "music-player",
+    "riverpod",
+    "yandex-music"
    ]
   }
  ],
