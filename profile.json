@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "krinix1337",
-  "seed": "#000000",
+  "seed": "#2BB3C0",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -14,23 +14,23 @@
     "stack",
     "projects",
     "stats",
-    "buttons",
-    "streak"
+    "streak",
+    "buttons"
   ],
   "hidden": [
-    "streak",
-    "socials"
+    "socials",
+    "streak"
   ],
   "hero": {
     "greeting": "Привет, я",
     "name": "",
     "subtitle": "Делаю полезные программы)",
     "typing": true,
-    "avatarShape": "cookie12",
+    "avatarShape": "pill",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Dubai - mocha island"
+        "label": "Dubai - Mocha island"
       },
       {
         "icon": "brand:claudecode",
@@ -46,7 +46,7 @@
         "label": "Делаю программы, которые могут помочь"
       },
       {
-        "icon": "brand:github",
+        "icon": "brand:githubsponsors",
         "label": "Нравиться заниматься этим"
       },
       {
@@ -66,6 +66,10 @@
             "label": "Rust"
           },
           {
+            "icon": "brand:flutter",
+            "label": "Flutter"
+          },
+          {
             "icon": "brand:python",
             "label": "Python"
           }
@@ -79,7 +83,7 @@
             "label": "Git"
           },
           {
-            "icon": "brand:claude",
+            "icon": "brand:claudecode",
             "label": "Claude"
           },
           {
@@ -94,17 +98,10 @@
     "source": "manual",
     "repos": [
       "lantern-zapret",
-      "mimikoLauncher"
+      "mimikoLauncher",
+      "mimikoPlayer"
     ],
-    "overrides": {
-      "lantern-zapret": {
-        "shape": "cookie12",
-        "icon": "language"
-      },
-      "mimikoLauncher": {
-        "shape": "flower"
-      }
-    },
+    "overrides": {},
     "empty": "Описания пока нет.",
     "fork": "Fork"
   },
