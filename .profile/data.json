@@ -1,37 +1,25 @@
 {
- "key": "b2160620",
- "stars": 8,
- "contributions": 178,
- "repos": 4,
+ "key": "12371db2",
+ "stars": 7,
+ "contributions": 129,
+ "repos": 3,
  "followers": 2,
  "languages": [
   [
-   "Rust",
-   9657812
-  ],
-  [
-   "Vue",
-   7057118
-  ],
-  [
-   "TypeScript",
-   4454543
-  ],
-  [
    "Dart",
-   1523755
+   1622608
   ],
   [
    "C#",
    1230531
   ],
   [
-   "HTML",
-   219596
+   "Kotlin",
+   15537
   ],
   [
-   "JavaScript",
-   170252
+   "Java",
+   3074
   ]
  ],
  "days": [
@@ -52,12 +40,12 @@
     "today": false
    },
    {
-    "c": 20,
+    "c": 9,
     "day": 28,
     "today": false
    },
    {
-    "c": 32,
+    "c": 1,
     "day": 29,
     "today": false
    },
@@ -67,7 +55,7 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 0,
     "day": 31,
     "today": false
    }
@@ -89,7 +77,7 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 7,
     "day": 4,
     "today": false
    },
@@ -104,7 +92,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 7,
     "today": false
    }
@@ -121,7 +109,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 10,
     "today": true
    },
@@ -132,8 +120,8 @@
   ]
  ],
  "streak": {
-  "current": 0,
-  "longest": 7
+  "current": 1,
+  "longest": 5
  },
  "pins": [
   {
@@ -153,21 +141,6 @@
     "wpf",
     "youtube",
     "zapret"
-   ]
-  },
-  {
-   "name": "mimikoLauncher",
-   "url": "https://github.com/krinix1337/mimikoLauncher",
-   "text": "Лаунчер Minecraft в стиле Modrinth App: без рекламы, вход по нику и через Ely.by",
-   "fork": false,
-   "stars": 1,
-   "language": "Rust",
-   "topics": [
-    "elyby",
-    "minecraft",
-    "minecraft-launcher",
-    "modrinth",
-    "tauri"
    ]
   },
   {
@@ -209,21 +182,6 @@
     "wpf",
     "youtube",
     "zapret"
-   ]
-  },
-  {
-   "name": "mimikoLauncher",
-   "url": "https://github.com/krinix1337/mimikoLauncher",
-   "text": "Лаунчер Minecraft в стиле Modrinth App: без рекламы, вход по нику и через Ely.by",
-   "fork": false,
-   "stars": 1,
-   "language": "Rust",
-   "topics": [
-    "elyby",
-    "minecraft",
-    "minecraft-launcher",
-    "modrinth",
-    "tauri"
    ]
   },
   {

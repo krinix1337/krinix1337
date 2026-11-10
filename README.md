@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/krinix1337/lantern-zapret"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lantern-zapret-dark.svg"><img src="assets/project-lantern-zapret-light.svg" width="49%" alt="lantern-zapret"></picture></a>&nbsp;<a href="https://github.com/krinix1337/mimikoLauncher"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mimikolauncher-dark.svg"><img src="assets/project-mimikolauncher-light.svg" width="49%" alt="mimikoLauncher"></picture></a>
-
-<a href="https://github.com/krinix1337/mimikoPlayer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mimikoplayer-dark.svg"><img src="assets/project-mimikoplayer-light.svg" width="49%" alt="mimikoPlayer"></picture></a>
+<a href="https://github.com/krinix1337/lantern-zapret"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lantern-zapret-dark.svg"><img src="assets/project-lantern-zapret-light.svg" width="49%" alt="lantern-zapret"></picture></a>&nbsp;<a href="https://github.com/krinix1337/mimikoPlayer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mimikoplayer-dark.svg"><img src="assets/project-mimikoplayer-light.svg" width="49%" alt="mimikoPlayer"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
